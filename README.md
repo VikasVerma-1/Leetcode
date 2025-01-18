@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VikasVerma-1/Leetcode/tree/master/0134-gas-station) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/VikasVerma-1/Leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
