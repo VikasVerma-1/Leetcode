@@ -20,5 +20,6 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/VikasVerma-1/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1811-fix-names-in-a-table](https://github.com/VikasVerma-1/Leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
