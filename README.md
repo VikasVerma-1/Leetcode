@@ -22,6 +22,7 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/VikasVerma-1/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/VikasVerma-1/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [1179-game-play-analysis-i](https://github.com/VikasVerma-1/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1811-fix-names-in-a-table](https://github.com/VikasVerma-1/Leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Tree
 |  |
