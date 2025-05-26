@@ -1,7 +1,4 @@
-/**
- * @param {string} val
- * @return {Object}
- */
+
 var expect = function(val) {
     return {
         toBe: function(expected) {
